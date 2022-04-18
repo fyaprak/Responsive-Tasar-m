@@ -1,0 +1,78 @@
+.app-loc{
+    padding-left: 0 !important;
+}
+.navbar-app-btn{
+    display: none;
+}
+.main-p{
+    font-size: 36px;
+    line-height: 45px;
+}
+.container-content{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10px;
+}
+.content-paragraph{
+    padding-top: 50px;
+}
+#bg{
+    background: url(../image/MobileBackground.jpg);
+    background-repeat: no-repeat;
+    background-size:  365px;
+}
+.client-logo{
+    margin: 78px 20px 16px 20px !important;
+    padding: 24px 26px 24px 26px !important;
+}
+.logo-1,.logo-2,.logo-3,.logo-4{
+    margin-bottom: 32px;
+}
+.feature-item{
+    margin-bottom: 48px;
+}
+.features-container{
+    margin-top: 48px !important;
+    margin-left: 15px !important;
+    margin-right: 15px !important;
+    margin-bottom: 16px !important;
+}
+.features-description{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.testimonial-container{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.testimonial-paragraph{
+    margin-bottom: 24px;
+}
+.testimonial-title{
+    font-size: 30px;
+    line-height: 40px;
+}
+.quote-mark{
+    left: 20px;
+    margin-top: -56px;
+}
+.right-m{
+    margin-top: 0px;
+}
+.left-card{
+    width: 335px;
+    margin-bottom: 24px;
+    margin-left: 0px;
+}
+.right-card-1{
+    width: 335px;
+    margin-bottom: 24px;
+    margin-left: 0px;
+}
+.right-card-2{
+    width: 335px;
+    margin-left: 0px;
+}
+.testimonial{
+    padding-bottom: 48px;
+}
